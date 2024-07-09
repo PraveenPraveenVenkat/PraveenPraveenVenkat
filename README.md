@@ -2,7 +2,7 @@
 - 👀 I'm Learnind DSA
 - 🌱 I’m currently learning  DSA
 - 💞️ I’m looking to collaborate on Web Development/MERN Stack
-- 📫 How to reach me 
+- 📫 How to reach me  LinkedIN https://github.com/PraveenPraveenVenkat
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
